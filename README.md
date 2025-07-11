@@ -134,11 +134,3 @@ For better UX, display:
 ```
 
 ---
-
-Let me know if you'd like:
-
-* A working frontend snippet to connect & call the contract
-* A Hardhat script to deploy and verify on Basescan
-* Styling or UI help for wallet actions
-
-Ready to ship.
