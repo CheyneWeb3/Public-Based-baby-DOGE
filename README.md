@@ -1,6 +1,3 @@
-Here is a full guide to deploying your `ERC20LotteryV2` contract and integrating it into your frontend app with `.env` configuration.
-
----
 
 ### ✅ 1. **Deploy the Contract (via Remix or Hardhat)**
 
